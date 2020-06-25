@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="POBIProject" targetName="Program" />
+      <config projectName="POBIProject" targetName="TestRent" />
+      <config projectName="POBIProject" targetName="Biblioteka" />
+      <config projectName="POBIProject" targetName="check" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c14d12a6-50cc-4acc-b843-f81694e8794c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cnuE8e6DkO98ycH5Pnw7oSH1ub" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="CMake Application.check">
+    <configuration name="T2" type="CMakeBoostTestRunConfigurationType" factoryName="Boost Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="testClient" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="POBIProject" RUN_TARGET_NAME="testClient" TEST_CLASS="RentSuiteCorrect" TEST_METHOD="T2" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Biblioteka" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="Biblioteka" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="Program" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="POBIProject" RUN_TARGET_NAME="Program">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRent" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="TestRent" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="POBIProject" RUN_TARGET_NAME="TestRent">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="POBIProject" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Boost.Test.T2" />
+      <item itemvalue="CMake Application.Biblioteka" />
+      <item itemvalue="CMake Application.Program" />
+      <item itemvalue="CMake Application.TestRent" />
+      <item itemvalue="CMake Application.check" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Boost.Test.T2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c14d12a6-50cc-4acc-b843-f81694e8794c" name="Default Changelist" comment="" />
+      <created>1591176563815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591176563815</updated>
+      <workItem from="1591176566635" duration="1605000" />
+      <workItem from="1591188591246" duration="10604000" />
+      <workItem from="1591231674697" duration="80000" />
+      <workItem from="1591276526527" duration="3753000" />
+      <workItem from="1591285048098" duration="700000" />
+      <workItem from="1591733388346" duration="3620000" />
+      <workItem from="1591773472162" duration="6489000" />
+      <workItem from="1593007744901" duration="5543000" />
+      <workItem from="1593092876284" duration="567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="154" y="230" width="647" height="552" key="#check" timestamp="1593008087829">
+      <screen x="0" y="0" width="1920" height="1015" />
+    </state>
+    <state x="154" y="230" width="647" height="552" key="#check/0.0.1920.1015@0.0.1920.1015" timestamp="1593008087829" />
+    <state x="229" y="256" width="530" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591777290411">
+      <screen x="0" y="0" width="1920" height="1015" />
+    </state>
+    <state x="229" y="256" width="530" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1015@0.0.1920.1015" timestamp="1591777290411" />
+    <state x="739" y="267" width="430" height="482" key="FileChooserDialogImpl" timestamp="1591231754530">
+      <screen x="0" y="0" width="1920" height="1015" />
+    </state>
+    <state x="739" y="267" width="430" height="482" key="FileChooserDialogImpl/0.0.1920.1015@0.0.1920.1015" timestamp="1591231754530" />
+    <state width="908" height="266" key="GridCell.Tab.0.bottom" timestamp="1591228736061">
+      <screen x="0" y="0" width="1920" height="1015" />
+    </state>
+    <state width="908" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1015@0.0.1920.1015" timestamp="1591228736061" />
+    <state width="908" height="266" key="GridCell.Tab.0.center" timestamp="1591228736060">
+      <screen x="0" y="0" width="1920" height="1015" />
+    </state>
+    <state width="908" height="266" key="GridCell.Tab.0.center/0.0.1920.1015@0.0.1920.1015" timestamp="1591228736060" />
+    <state width="908" height="266" key="GridCell.Tab.0.left" timestamp="1591228736060">
+      <screen x="0" y="0" width="1920" height="1015" />
+    </state>
+    <state width="908" height="266" key="GridCell.Tab.0.left/0.0.1920.1015@0.0.1920.1015" timestamp="1591228736060" />
+    <state width="908" height="266" key="GridCell.Tab.0.right" timestamp="1591228736061">
+      <screen x="0" y="0" width="1920" height="1015" />
+    </state>
+    <state width="908" height="266" key="GridCell.Tab.0.right/0.0.1920.1015@0.0.1920.1015" timestamp="1591228736061" />
+    <state x="616" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1591773472240">
+      <screen x="0" y="0" width="1920" height="1015" />
+    </state>
+    <state x="616" y="337" key="com.intellij.ide.util.TipDialog/0.0.1920.1015@0.0.1920.1015" timestamp="1591773472240" />
+  </component>
+</project>

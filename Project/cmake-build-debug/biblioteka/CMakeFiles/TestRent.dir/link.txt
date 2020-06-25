@@ -1,0 +1,1 @@
+/usr/bin/g++  -g3 -gdwarf-4   CMakeFiles/TestRent.dir/Test/master.cpp.o CMakeFiles/TestRent.dir/Test/RentTest.cpp.o  -o TestRent libBiblioteka.a /usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.so 

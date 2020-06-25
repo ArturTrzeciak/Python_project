@@ -1,0 +1,19 @@
+Start testing: Jun 24 16:22 CEST
+----------------------------------------------------------
+Unable to find executable: RentTest
+1/1 Testing: TestBiblioteki1
+1/1 Test: TestBiblioteki1
+Command: "" "--report_level=detailed" "--log_level=all" "--color_output=yes" "--show_progress=true"
+Directory: /home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka
+"TestBiblioteki1" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestBiblioteki1" end time: Jun 24 16:22 CEST
+"TestBiblioteki1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 24 16:22 CEST

@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/Client.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/Client.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/Client.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/Adress.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/Adress.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/Adress.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/Vehicle.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/Vehicle.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/Vehicle.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/Rent.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/Rent.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/Rent.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/RentException.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/RentException.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/RentException.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/ClientException.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientException.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientException.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/ClientStart.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientStart.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientStart.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/ClientTwo.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientTwo.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientTwo.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/ClientThree.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientThree.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientThree.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Biblioteka.dir/src/ClientFour.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientFour.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/src/ClientFour.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/TestRent.dir/Test/master.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/Test/master.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/Test/master.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/TestRent.dir/Test/RentTest.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/biblioteka/Test/RentTest.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/biblioteka/Test/RentTest.cpp"
+},
+{
+  "directory": "/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/program",
+  "command": "/usr/bin/g++   -I/home/student/Pulpit/MyProjekt1/Project/program/include -I/home/student/Pulpit/MyProjekt1/Project/biblioteka/include  -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Program.dir/src/main.cpp.o -c /home/student/Pulpit/MyProjekt1/Project/program/src/main.cpp",
+  "file": "/home/student/Pulpit/MyProjekt1/Project/program/src/main.cpp"
+}
+]

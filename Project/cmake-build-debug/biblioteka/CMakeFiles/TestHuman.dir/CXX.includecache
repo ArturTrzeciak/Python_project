@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../biblioteka/include/Creature.h
+
+../biblioteka/include/Human.h
+string
+-
+Creature.h
+../biblioteka/include/Creature.h
+
+/home/student/Pulpit/MyProjekt1/warsztat_1/biblioteka/test/HumanTest.cpp
+boost/test/unit_test.hpp
+-
+Human.h
+/home/student/Pulpit/MyProjekt1/warsztat_1/biblioteka/test/Human.h
+
+/home/student/Pulpit/MyProjekt1/warsztat_1/biblioteka/test/master.cpp
+boost/test/unit_test.hpp
+-
+

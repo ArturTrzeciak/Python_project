@@ -1,0 +1,13 @@
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/CMakeFiles/test.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka/CMakeFiles/rebuild_cache.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka/CMakeFiles/edit_cache.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka/CMakeFiles/check.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka/CMakeFiles/test.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka/CMakeFiles/Biblioteka.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/biblioteka/CMakeFiles/TestRent.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/program/CMakeFiles/rebuild_cache.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/program/CMakeFiles/edit_cache.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/program/CMakeFiles/Program.dir
+/home/student/Pulpit/MyProjekt1/Project/cmake-build-debug/program/CMakeFiles/test.dir
